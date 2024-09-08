@@ -1,0 +1,3 @@
+/home/utsav/IProject/libelas/build/CMakeFiles/elas.dir
+/home/utsav/IProject/libelas/build/CMakeFiles/edit_cache.dir
+/home/utsav/IProject/libelas/build/CMakeFiles/rebuild_cache.dir

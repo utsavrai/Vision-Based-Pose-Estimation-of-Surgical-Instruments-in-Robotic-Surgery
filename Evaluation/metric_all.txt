@@ -1,0 +1,459 @@
+foundation pose 
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 14.39%
+Threshold: 0.10, Accuracy: 29.76%
+Threshold: 0.15, Accuracy: 35.37%
+Threshold: 0.20, Accuracy: 35.85%
+Threshold: 0.25, Accuracy: 35.85%
+Threshold: 0.30, Accuracy: 36.10%
+Threshold: 0.35, Accuracy: 36.10%
+Threshold: 0.40, Accuracy: 89.02%
+Threshold: 0.45, Accuracy: 92.93%
+Threshold: 0.50, Accuracy: 93.17%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 27.80%
+Threshold: 10 pixels, Accuracy: 35.61%
+Threshold: 15 pixels, Accuracy: 36.10%
+Threshold: 20 pixels, Accuracy: 36.10%
+Threshold: 25 pixels, Accuracy: 36.10%
+Threshold: 30 pixels, Accuracy: 38.78%
+Threshold: 35 pixels, Accuracy: 42.93%
+Threshold: 40 pixels, Accuracy: 58.54%
+Threshold: 45 pixels, Accuracy: 74.39%
+Threshold: 50 pixels, Accuracy: 86.10%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 2.39%
+Threshold: 0.10, Accuracy: 25.78%
+Threshold: 0.15, Accuracy: 30.07%
+Threshold: 0.20, Accuracy: 30.79%
+Threshold: 0.25, Accuracy: 31.26%
+Threshold: 0.30, Accuracy: 31.26%
+Threshold: 0.35, Accuracy: 31.26%
+Threshold: 0.40, Accuracy: 86.63%
+Threshold: 0.45, Accuracy: 89.98%
+Threshold: 0.50, Accuracy: 90.93%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 3.58%
+Threshold: 10 pixels, Accuracy: 27.92%
+Threshold: 15 pixels, Accuracy: 31.50%
+Threshold: 20 pixels, Accuracy: 31.74%
+Threshold: 25 pixels, Accuracy: 31.98%
+Threshold: 30 pixels, Accuracy: 41.77%
+Threshold: 35 pixels, Accuracy: 73.99%
+Threshold: 40 pixels, Accuracy: 91.17%
+Threshold: 45 pixels, Accuracy: 91.89%
+Threshold: 50 pixels, Accuracy: 92.60%
+
+
+sam6d-maskrcnn 
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 14.39%
+Threshold: 0.10, Accuracy: 28.78%
+Threshold: 0.15, Accuracy: 31.46%
+Threshold: 0.20, Accuracy: 33.17%
+Threshold: 0.25, Accuracy: 35.61%
+Threshold: 0.30, Accuracy: 37.80%
+Threshold: 0.35, Accuracy: 39.76%
+Threshold: 0.40, Accuracy: 89.27%
+Threshold: 0.45, Accuracy: 91.71%
+Threshold: 0.50, Accuracy: 93.41%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 22.20%
+Threshold: 10 pixels, Accuracy: 32.20%
+Threshold: 15 pixels, Accuracy: 32.93%
+Threshold: 20 pixels, Accuracy: 33.90%
+Threshold: 25 pixels, Accuracy: 34.88%
+Threshold: 30 pixels, Accuracy: 37.80%
+Threshold: 35 pixels, Accuracy: 42.20%
+Threshold: 40 pixels, Accuracy: 56.34%
+Threshold: 45 pixels, Accuracy: 72.93%
+Threshold: 50 pixels, Accuracy: 85.61%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 6.92%
+Threshold: 0.10, Accuracy: 22.91%
+Threshold: 0.15, Accuracy: 29.83%
+Threshold: 0.20, Accuracy: 32.46%
+Threshold: 0.25, Accuracy: 34.13%
+Threshold: 0.30, Accuracy: 35.32%
+Threshold: 0.35, Accuracy: 36.75%
+Threshold: 0.40, Accuracy: 84.73%
+Threshold: 0.45, Accuracy: 91.65%
+Threshold: 0.50, Accuracy: 96.18%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 29.83%
+Threshold: 10 pixels, Accuracy: 34.84%
+Threshold: 15 pixels, Accuracy: 35.32%
+Threshold: 20 pixels, Accuracy: 35.80%
+Threshold: 25 pixels, Accuracy: 36.75%
+Threshold: 30 pixels, Accuracy: 45.11%
+Threshold: 35 pixels, Accuracy: 71.84%
+Threshold: 40 pixels, Accuracy: 91.17%
+Threshold: 45 pixels, Accuracy: 94.51%
+Threshold: 50 pixels, Accuracy: 97.37%
+
+sam6d-sam 
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.24%
+Threshold: 0.15, Accuracy: 0.24%
+Threshold: 0.20, Accuracy: 0.24%
+Threshold: 0.25, Accuracy: 1.71%
+Threshold: 0.30, Accuracy: 6.59%
+Threshold: 0.35, Accuracy: 12.44%
+Threshold: 0.40, Accuracy: 16.10%
+Threshold: 0.45, Accuracy: 19.02%
+Threshold: 0.50, Accuracy: 22.68%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.00%
+Threshold: 10 pixels, Accuracy: 0.24%
+Threshold: 15 pixels, Accuracy: 0.49%
+Threshold: 20 pixels, Accuracy: 0.49%
+Threshold: 25 pixels, Accuracy: 0.49%
+Threshold: 30 pixels, Accuracy: 2.93%
+Threshold: 35 pixels, Accuracy: 4.63%
+Threshold: 40 pixels, Accuracy: 8.78%
+Threshold: 45 pixels, Accuracy: 11.95%
+Threshold: 50 pixels, Accuracy: 14.15%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.00%
+Threshold: 0.15, Accuracy: 0.00%
+Threshold: 0.20, Accuracy: 0.00%
+Threshold: 0.25, Accuracy: 0.24%
+Threshold: 0.30, Accuracy: 0.24%
+Threshold: 0.35, Accuracy: 0.48%
+Threshold: 0.40, Accuracy: 0.95%
+Threshold: 0.45, Accuracy: 1.19%
+Threshold: 0.50, Accuracy: 1.43%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.00%
+Threshold: 10 pixels, Accuracy: 0.24%
+Threshold: 15 pixels, Accuracy: 0.48%
+Threshold: 20 pixels, Accuracy: 0.48%
+Threshold: 25 pixels, Accuracy: 0.48%
+Threshold: 30 pixels, Accuracy: 0.48%
+Threshold: 35 pixels, Accuracy: 0.72%
+Threshold: 40 pixels, Accuracy: 0.95%
+Threshold: 45 pixels, Accuracy: 1.67%
+Threshold: 50 pixels, Accuracy: 1.91%
+
+ove6d
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.00%
+Threshold: 0.15, Accuracy: 0.00%
+Threshold: 0.20, Accuracy: 3.17%
+Threshold: 0.25, Accuracy: 10.24%
+Threshold: 0.30, Accuracy: 19.76%
+Threshold: 0.35, Accuracy: 29.27%
+Threshold: 0.40, Accuracy: 71.46%
+Threshold: 0.45, Accuracy: 89.51%
+Threshold: 0.50, Accuracy: 93.41%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.00%
+Threshold: 10 pixels, Accuracy: 0.00%
+Threshold: 15 pixels, Accuracy: 0.00%
+Threshold: 20 pixels, Accuracy: 1.71%
+Threshold: 25 pixels, Accuracy: 8.78%
+Threshold: 30 pixels, Accuracy: 15.12%
+Threshold: 35 pixels, Accuracy: 27.07%
+Threshold: 40 pixels, Accuracy: 44.88%
+Threshold: 45 pixels, Accuracy: 62.93%
+Threshold: 50 pixels, Accuracy: 75.85%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.00%
+Threshold: 0.15, Accuracy: 0.00%
+Threshold: 0.20, Accuracy: 0.00%
+Threshold: 0.25, Accuracy: 1.45%
+Threshold: 0.30, Accuracy: 17.59%
+Threshold: 0.35, Accuracy: 42.17%
+Threshold: 0.40, Accuracy: 66.99%
+Threshold: 0.45, Accuracy: 90.60%
+Threshold: 0.50, Accuracy: 94.22%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.00%
+Threshold: 10 pixels, Accuracy: 0.00%
+Threshold: 15 pixels, Accuracy: 0.24%
+Threshold: 20 pixels, Accuracy: 6.51%
+Threshold: 25 pixels, Accuracy: 22.89%
+Threshold: 30 pixels, Accuracy: 35.18%
+Threshold: 35 pixels, Accuracy: 69.64%
+Threshold: 40 pixels, Accuracy: 90.60%
+Threshold: 45 pixels, Accuracy: 97.83%
+Threshold: 50 pixels, Accuracy: 99.04%
+
+megapose
+
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.00%
+Threshold: 0.15, Accuracy: 0.24%
+Threshold: 0.20, Accuracy: 0.48%
+Threshold: 0.25, Accuracy: 0.72%
+Threshold: 0.30, Accuracy: 1.69%
+Threshold: 0.35, Accuracy: 2.41%
+Threshold: 0.40, Accuracy: 5.06%
+Threshold: 0.45, Accuracy: 8.67%
+Threshold: 0.50, Accuracy: 12.29%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.24%
+Threshold: 10 pixels, Accuracy: 12.53%
+Threshold: 15 pixels, Accuracy: 26.51%
+Threshold: 20 pixels, Accuracy: 38.07%
+Threshold: 25 pixels, Accuracy: 48.67%
+Threshold: 30 pixels, Accuracy: 61.93%
+Threshold: 35 pixels, Accuracy: 74.70%
+Threshold: 40 pixels, Accuracy: 78.07%
+Threshold: 45 pixels, Accuracy: 83.13%
+Threshold: 50 pixels, Accuracy: 90.12%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 0.00%
+Threshold: 0.10, Accuracy: 0.00%
+Threshold: 0.15, Accuracy: 0.00%
+Threshold: 0.20, Accuracy: 0.00%
+Threshold: 0.25, Accuracy: 0.24%
+Threshold: 0.30, Accuracy: 1.46%
+Threshold: 0.35, Accuracy: 1.71%
+Threshold: 0.40, Accuracy: 3.17%
+Threshold: 0.45, Accuracy: 7.80%
+Threshold: 0.50, Accuracy: 11.46%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 0.24%
+Threshold: 10 pixels, Accuracy: 0.98%
+Threshold: 15 pixels, Accuracy: 3.90%
+Threshold: 20 pixels, Accuracy: 5.37%
+Threshold: 25 pixels, Accuracy: 5.85%
+Threshold: 30 pixels, Accuracy: 9.76%
+Threshold: 35 pixels, Accuracy: 14.88%
+Threshold: 40 pixels, Accuracy: 25.61%
+Threshold: 45 pixels, Accuracy: 37.56%
+Threshold: 50 pixels, Accuracy: 45.12%
+
+
+
+gdr-net
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 87.89%
+Threshold: 0.10, Accuracy: 98.79%
+Threshold: 0.15, Accuracy: 99.03%
+Threshold: 0.20, Accuracy: 99.52%
+Threshold: 0.25, Accuracy: 99.52%
+Threshold: 0.30, Accuracy: 99.76%
+Threshold: 0.35, Accuracy: 99.76%
+Threshold: 0.40, Accuracy: 99.76%
+Threshold: 0.45, Accuracy: 99.76%
+Threshold: 0.50, Accuracy: 99.76%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 99.76%
+Threshold: 10 pixels, Accuracy: 100.00%
+Threshold: 15 pixels, Accuracy: 100.00%
+Threshold: 20 pixels, Accuracy: 100.00%
+Threshold: 25 pixels, Accuracy: 100.00%
+Threshold: 30 pixels, Accuracy: 100.00%
+Threshold: 35 pixels, Accuracy: 100.00%
+Threshold: 40 pixels, Accuracy: 100.00%
+Threshold: 45 pixels, Accuracy: 100.00%
+Threshold: 50 pixels, Accuracy: 100.00%
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 84.48%
+Threshold: 0.10, Accuracy: 96.06%
+Threshold: 0.15, Accuracy: 97.78%
+Threshold: 0.20, Accuracy: 98.28%
+Threshold: 0.25, Accuracy: 98.28%
+Threshold: 0.30, Accuracy: 98.28%
+Threshold: 0.35, Accuracy: 98.28%
+Threshold: 0.40, Accuracy: 99.01%
+Threshold: 0.45, Accuracy: 99.01%
+Threshold: 0.50, Accuracy: 99.01%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 96.06%
+Threshold: 10 pixels, Accuracy: 96.80%
+Threshold: 15 pixels, Accuracy: 96.80%
+Threshold: 20 pixels, Accuracy: 97.04%
+Threshold: 25 pixels, Accuracy: 97.54%
+Threshold: 30 pixels, Accuracy: 97.78%
+Threshold: 35 pixels, Accuracy: 98.28%
+Threshold: 40 pixels, Accuracy: 98.28%
+Threshold: 45 pixels, Accuracy: 98.28%
+Threshold: 50 pixels, Accuracy: 98.28%
+
+
+
+pvnet
+
+Non Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 65.61%
+Threshold: 0.10, Accuracy: 90.49%
+Threshold: 0.15, Accuracy: 96.83%
+Threshold: 0.20, Accuracy: 98.05%
+Threshold: 0.25, Accuracy: 98.54%
+Threshold: 0.30, Accuracy: 98.78%
+Threshold: 0.35, Accuracy: 98.78%
+Threshold: 0.40, Accuracy: 98.78%
+Threshold: 0.45, Accuracy: 98.78%
+Threshold: 0.50, Accuracy: 98.78%
+
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 98.54%
+Threshold: 10 pixels, Accuracy: 98.78%
+Threshold: 15 pixels, Accuracy: 99.02%
+Threshold: 20 pixels, Accuracy: 99.27%
+Threshold: 25 pixels, Accuracy: 99.51%
+Threshold: 30 pixels, Accuracy: 99.51%
+Threshold: 35 pixels, Accuracy: 99.76%
+Threshold: 40 pixels, Accuracy: 100.00%
+Threshold: 45 pixels, Accuracy: 100.00%
+Threshold: 50 pixels, Accuracy: 100.00%
+
+
+Occluded
+
+ADD
+
+Threshold: 0.00, Accuracy: 0.00%
+Threshold: 0.05, Accuracy: 55.61%
+Threshold: 0.10, Accuracy: 87.35%
+Threshold: 0.15, Accuracy: 93.79%
+Threshold: 0.20, Accuracy: 95.70%
+Threshold: 0.25, Accuracy: 96.42%
+Threshold: 0.30, Accuracy: 97.14%
+Threshold: 0.35, Accuracy: 97.14%
+Threshold: 0.40, Accuracy: 97.61%
+Threshold: 0.45, Accuracy: 97.61%
+Threshold: 0.50, Accuracy: 97.85%
+2d projection
+
+Threshold: 0 pixels, Accuracy: 0.00%
+Threshold: 5 pixels, Accuracy: 98.09%
+Threshold: 10 pixels, Accuracy: 98.81%
+Threshold: 15 pixels, Accuracy: 99.05%
+Threshold: 20 pixels, Accuracy: 99.05%
+Threshold: 25 pixels, Accuracy: 99.05%
+Threshold: 30 pixels, Accuracy: 99.05%
+Threshold: 35 pixels, Accuracy: 99.05%
+Threshold: 40 pixels, Accuracy: 99.05%
+Threshold: 45 pixels, Accuracy: 99.05%
+Threshold: 50 pixels, Accuracy: 99.05%
+
+
+
+time analysis
+
+0.25 sec - mask101
+0.17 sec - mask50
+sam 3.58 sec
+ove6d + maskrcnn - 2.29 sec
+gdr + maskrcnn 0.83 sec
+pvnet 0.18 sec
+megapose + maskrcnn - 4.45 sec
+sam-6d maskrcnn - 4.91 sec
+sam-6d sam - 7.54 sec
+foundationpose + maskrcnn 12.6 sec
