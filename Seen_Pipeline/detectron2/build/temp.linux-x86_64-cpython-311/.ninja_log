@@ -1,0 +1,12 @@
+# ninja log v5
+1	817	1724155545954309332	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/cuda_version.o	812f4949455e3c12
+1	6228	1724155551367202474	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	26b382d811602dbf
+0	7654	1724155552786174462	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	d8d03519d4dd8ef1
+0	8358	1724155553494160486	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	ac61e7771f548ce
+1	8871	1724155554004150419	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	20bca3da8a2914d6
+0	17250	1724155562373985195	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	3be8261658595abf
+1	17258	1724155562383984998	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	5812bda0f1e17716
+2	18275	1724155563408964764	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/vision.o	d31232c4266c177c
+0	18314	1724155563439964153	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	d57c54b08c6920f9
+2	19730	1724155564854936221	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	edb383b1829bafd4
+1	20310	1724155565437924712	/home/utsav/IProject/detectron2/build/temp.linux-x86_64-cpython-311/home/utsav/IProject/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	a3c00830c5139377

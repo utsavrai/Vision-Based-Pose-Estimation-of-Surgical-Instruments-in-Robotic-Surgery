@@ -1,0 +1,5 @@
+/home/utsav/IProject/bop_renderer/build/CMakeFiles/bop_renderer.dir
+/home/utsav/IProject/bop_renderer/build/CMakeFiles/edit_cache.dir
+/home/utsav/IProject/bop_renderer/build/CMakeFiles/rebuild_cache.dir
+/home/utsav/IProject/bop_renderer/build/3rd/pybind11/CMakeFiles/edit_cache.dir
+/home/utsav/IProject/bop_renderer/build/3rd/pybind11/CMakeFiles/rebuild_cache.dir
